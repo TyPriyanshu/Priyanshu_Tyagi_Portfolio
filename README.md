@@ -5,7 +5,6 @@ A modern, responsive portfolio website built using React, TypeScript, Vite, and 
 ## Features
 
 - Responsive design
-- Dark/Light mode
 - Projects showcase
 - Skills and Experience
 - Certificates
