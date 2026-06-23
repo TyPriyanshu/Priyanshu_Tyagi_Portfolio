@@ -10,6 +10,10 @@ A modern, responsive portfolio website built using React, TypeScript, Vite, and 
 - Certificates
 - Contact section
 
+## Live Demo Link
+https://priyanshu-tyagi-portfolio.vercel.app
+
+
 ## Tech Stack
 
 - React
@@ -24,5 +28,3 @@ A modern, responsive portfolio website built using React, TypeScript, Vite, and 
 npm install
 npm run dev
 
-#Live Demo Link
-https://priyanshu-tyagi-portfolio.vercel.app/
